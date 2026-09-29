@@ -1,21 +1,23 @@
 ## Calendario
 
-- 19 de agosto:     Clase 1
-- 26 de agosto:     Clase 2
-- 02 de septiembre: Clase 3
-- 09 de septiembre: Clase 4
-- 16 de septiembre: Clase 5
-- 23 de septiembre: Clase 6
-- 30 de septiembre: Clase 7
-- 07 de octubre:    Clase 8
-- 14 de octubre:    Festivo
-- 21 de octubre:    Clase 9
-- 28 de octubre:    Clase 10
-- 04 de noviembre:  Clase 11
-- 11 de noviembre:  Clase 12
-- 18 de noviembre:  Clase 13
-- 25 de noviembre:  Clase 14 (entrega de informes)
-- 02 de diciembre:  Clase 15 (presentación de projectos)
+| Fecha | Número de clase | Comentario |
+|---|---|---|
+| 19 de agosto | 1 |  |
+| 26 de agosto | 2 |  |
+| 02 de septiembre | 3 |  |
+| 09 de septiembre | 4 |  |
+| 16 de septiembre | 5 |  |
+| 23 de septiembre | 6 |  |
+| 30 de septiembre | 7 |  |
+| 07 de octubre | 8 |  |
+| 14 de octubre |  | Festivo |
+| 21 de octubre | 9 |  |
+| 28 de octubre | 10 |  |
+| 04 de noviembre | 11 |  |
+| 11 de noviembre | 12 |  |
+| 18 de noviembre | 13 |  |
+| 25 de noviembre | 14 | entrega de informes |
+| 02 de diciembre | 15 | presentación de projectos |
 
 ## License
 © 2026 Ignacio Brevis
