@@ -1,13 +1,13 @@
 ## Calendario
 
 | Fecha | Número de clase | Comentario |
-|---|---|---|
-| 19 de agosto | 1 |  |
-| 26 de agosto | 2 |  |
-| 02 de septiembre | 3 |  |
-| 09 de septiembre | 4 |  |
-| 16 de septiembre | 5 |  |
-| 23 de septiembre | 6 |  |
+|---|:---:|---|
+| 19 de agosto | 1 | Intro a RL |
+| 26 de agosto | 2 | MPD y definiciones de RL |
+| 02 de septiembre | 3 | función de valor y Bellman ec |
+| 09 de septiembre | 4 | Bellman ec general y BOE |
+| 16 de septiembre | 5 | métodos de MC |
+| 23 de septiembre | 6 | Temporal difference |
 | 30 de septiembre | 7 |  |
 | 07 de octubre | 8 |  |
 | 14 de octubre |  | Festivo |
@@ -16,8 +16,8 @@
 | 04 de noviembre | 11 |  |
 | 11 de noviembre | 12 |  |
 | 18 de noviembre | 13 |  |
-| 25 de noviembre | 14 | entrega de informes |
-| 02 de diciembre | 15 | presentación de projectos |
+| 25 de noviembre | 14 | **entrega de informes** |
+| 02 de diciembre | 15 | **presentación de proyectos** |
 
 ## License
 © 2026 Ignacio Brevis
