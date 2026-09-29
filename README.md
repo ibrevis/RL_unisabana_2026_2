@@ -10,14 +10,14 @@
 | 23 de septiembre | 6 | Temporal difference |
 | 30 de septiembre | 7 |  |
 | 07 de octubre | 8 |  |
-| 14 de octubre |  | Festivo |
-| 21 de octubre | 9 |  |
-| 28 de octubre | 10 |  |
-| 04 de noviembre | 11 |  |
-| 11 de noviembre | 12 |  |
-| 18 de noviembre | 13 |  |
-| 25 de noviembre | 14 | **entrega de informes** |
-| 02 de diciembre | 15 | **presentación de proyectos** |
+| 14 de octubre | 9 |  |
+| 21 de octubre | 10 |  |
+| 28 de octubre | 11 |  |
+| 04 de noviembre | 12 |  |
+| 11 de noviembre | 13 |  |
+| 18 de noviembre | 14 |  |
+| 25 de noviembre | 15 | **entrega de informes** |
+| 02 de diciembre | 16 | **presentación de proyectos** |
 
 ## License
 © 2026 Ignacio Brevis
