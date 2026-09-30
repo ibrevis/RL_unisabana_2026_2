@@ -8,7 +8,7 @@
 | 09 de septiembre | 4 | Bellman ec general y BOE |
 | 16 de septiembre | 5 | métodos de MC |
 | 23 de septiembre | 6 | Temporal difference |
-| 30 de septiembre | 7 |  |
+| 30 de septiembre | 7 | TD value y SARSA |
 | 07 de octubre | 8 |  |
 | 14 de octubre | 9 |  |
 | 21 de octubre | 10 |  |
