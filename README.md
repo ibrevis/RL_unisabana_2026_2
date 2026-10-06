@@ -9,7 +9,7 @@
 | 16 de septiembre | 5 | métodos de MC |
 | 23 de septiembre | 6 | Temporal difference |
 | 30 de septiembre | 7 | TD value y SARSA |
-| 07 de octubre | 8 |  |
+| 07 de octubre | 8 | n-step SARSA y Q-learning |
 | 14 de octubre | 9 |  |
 | 21 de octubre | 10 |  |
 | 28 de octubre | 11 |  |
