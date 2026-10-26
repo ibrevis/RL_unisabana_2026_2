@@ -11,7 +11,7 @@
 | 30 de septiembre | 7 | TD value y SARSA |
 | 07 de octubre | 8 | n-step SARSA y Q-learning |
 | 14 de octubre | 9 | Function approximation |
-| 21 de octubre | 10 |  |
+| 21 de octubre | 10 | Deep SARSA |
 | 28 de octubre | 11 |  |
 | 04 de noviembre | 12 |  |
 | 11 de noviembre | 13 |  |
