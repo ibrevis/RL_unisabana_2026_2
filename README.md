@@ -12,10 +12,10 @@
 | 07 de octubre | 8 | n-step SARSA y Q-learning |
 | 14 de octubre | 9 | Function approximation |
 | 21 de octubre | 10 | Deep SARSA |
-| 28 de octubre | 11 |  |
-| 04 de noviembre | 12 |  |
-| 11 de noviembre | 13 |  |
-| 18 de noviembre | 14 |  |
+| 28 de octubre | 11 | DQN |
+| 04 de noviembre | 12 | Policy-vale methods |
+| 11 de noviembre | 13 | REINFORCE & Actor-Critic |
+| 18 de noviembre | 14 | Discusión de proyectos |
 | 25 de noviembre | 15 | **entrega de informes** |
 | 02 de diciembre | 16 | **presentación de proyectos** |
 
