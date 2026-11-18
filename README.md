@@ -16,7 +16,8 @@
 | 04 de noviembre | 12 | Policy-vale methods |
 | 11 de noviembre | 13 | REINFORCE & Actor-Critic |
 | 18 de noviembre | 14 | Discusión de proyectos |
-| 25 de noviembre | 15 | **entrega de informes** |
+| 25 de noviembre | 15 | |
+| 29 de noviembre |    | **entrega de informes** |
 | 02 de diciembre | 16 | **presentación de proyectos** |
 
 ## License
